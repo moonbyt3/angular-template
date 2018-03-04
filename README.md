@@ -1,6 +1,8 @@
 # angular-template
 Boilerplate for Angular 5 projects
 
+- Bootstrap grid included (without the whole bootstrap)
+- Routing module with routes included
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
